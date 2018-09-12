@@ -1,3 +1,13 @@
+#app {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
 h1 {
     color: aqua;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+body {
+    background-image: ;
 }
