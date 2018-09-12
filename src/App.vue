@@ -1,3 +1,4 @@
+
 <template>
   <div id="app">
     <h1>Hi!</h1>
@@ -5,5 +6,5 @@
 </template>
 
 <style lang="scss">
- @import 'assets/wow.css';
+ @import "../src/assets/wow.css";
 </style>
